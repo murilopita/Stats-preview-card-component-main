@@ -91,4 +91,4 @@ I'll keep practicing more about 'Media Queries, cause in this challange i had so
 
 <br>
 
-<p align='center'> It's have been a pleasure to be part of this comunity!</p> 
+<p align='center'> It's have been a pleasure to be part of this community!</p> 
