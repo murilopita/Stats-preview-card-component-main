@@ -54,7 +54,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/stats-preview-card-flexbox-responsive-LjSOigunwI)
 - Live Site URL: [Live Site at Vercel](https://stats-preview-card-component-main-b5x5caimu-murilopita.vercel.app/)
 
 <br>
@@ -73,13 +73,13 @@ Users should be able to:
 
 ## What I learned
 
-I learned the basics of 'Flexbox' and how to use it for a responsive webpage. Also i began my studies about 'Media Queries' and how to use them.
+I learned the basics of 'Flexbox' and how to use it for a responsive webpage. Also I began my studies about 'Media Queries' and how to use them.
 
 <br>
 
 ## Continued development
 
-I'll keep practicing more about 'Media Queries, cause in this challange i had some doubts and struglles whit them in the process of this challkange. Please, be welcome to give me your feedback, tips or anything.
+I'll keep practicing more about 'Media Queries, cause in this challenge I had some doubts and struggles with them in the process of this challenge. Please, be welcome to give me your feedback, tips or anything.
 
 <br>
 
