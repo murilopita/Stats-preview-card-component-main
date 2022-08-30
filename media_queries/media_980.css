@@ -1,0 +1,34 @@
+@media (max-width: 980px) {
+
+    html{
+        font-size: 60%;
+    }
+
+    /****Card Information****/
+
+    .box-info h1{
+        font-size: 3.5rem;
+        line-height: 4rem;
+    }
+
+    .box-info p{
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+
+    /****Stats Information****/
+
+    .stats{
+        margin-right: 2.5rem;
+    }
+
+    .stats .stat-block .number{
+        font-size: 2rem;
+    }
+
+    .stats .stat-block .text{
+        font-size: 1rem;
+        letter-spacing: 0.5px;
+    }
+
+}

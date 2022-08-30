@@ -1,0 +1,60 @@
+@media (max-width: 550px){
+
+    html{
+        font-size: 50%;
+    }
+
+    .card{
+        display: flex;
+        flex-direction: column-reverse;
+        max-width: 450px;
+
+    }
+
+    /****Card Information****/
+
+    .box-info{
+        text-align: center;
+        padding-top: 4rem;
+        padding-right: 5rem;
+        padding-left: 5rem;
+    }
+
+    .box-info h1{
+        font-size: 3.5rem;
+        line-height: 4rem;
+        padding-bottom: 2rem;
+        margin-bottom: 0;
+    }
+
+    .box-info p{
+        text-align: center;
+        padding: 0 1rem;
+        font-size: 1.2rem;
+    }
+
+    /****Stats Information****/
+
+    .stats{
+        padding-right: 50px;
+        padding-left: 50px;
+        margin-right: 0px;
+    }
+
+    /****Image Part****/
+
+    .card-img, img, .img-color{
+        border-radius: 15px 15px 0 0;
+
+    }
+
+    .img-desktop{
+        display: none;
+    }
+
+    .img-mobile{
+        display: flex;
+        width: 100%;
+    }
+
+}
